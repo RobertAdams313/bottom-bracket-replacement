@@ -29,7 +29,7 @@ I will split this into two seperate guides for the Bike and Bike+ since the tool
 [Race Pliers](https://www.amazon.com/gp/product/B003LBSLUG/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 
 
-Power drill or Torque Wrench
+Torque Wrench
 
 
 Phillips Screwdriver
@@ -53,7 +53,7 @@ Removing the Crank Arms:
 
 ```NOTE: The bottom bracket is reverse threaded which means it's clockwise to loosen and counter clockwise to tighten it.```
 
-9. Use the ISIS drive bottom bracket tool with the power drill or torque wrench <!-- Look up poundage for torque wrench as recommended by Peloton-->  and loosen the bottom bracket by turning clockwise. 
+9. Use the ISIS drive bottom bracket tool with the torque wrench set to 32 ft lbs <!-- Look up poundage for torque wrench as recommended by Peloton-->  and loosen the bottom bracket by turning clockwise. 
 10. Bottom brakcet should unscrew from the frame.
 
 Installation is the same steps in reverse order. 
@@ -75,10 +75,10 @@ Installation is the same steps in reverse order.
 [Race Pliers](https://www.amazon.com/gp/product/B003LBSLUG/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 
 
-Power drill or Torque Wrench
+Torque Wrench
 
 
-4mm Hex Allen Key
+[4mm Hex Allen Key](https://www.amazon.com/Journeyman-T-Handle-Klein-Tools-JTH9M4/dp/B005G3HJ8M/ref=sr_1_8?keywords=4mm+hex&qid=1678559118&s=hi&sprefix=4mm+%2Ctools%2C75&sr=1-8)
 
 
 Adjustable wrench
